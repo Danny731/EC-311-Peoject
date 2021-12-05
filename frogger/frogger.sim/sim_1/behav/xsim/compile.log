@@ -1,5 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "X:/EC311/frogger/frogger.srcs/sources_1/new/timer_30s.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module timer_30s
-WARNING: [VRFC 10-3676] redeclaration of ansi port 'out' is not allowed [X:/EC311/frogger/frogger.srcs/sources_1/new/timer_30s.v:29]
-INFO: [VRFC 10-2263] Analyzing Verilog file "X:/EC311/frogger/frogger.srcs/sim_1/new/timer_30_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module timer_30_tb
